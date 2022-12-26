@@ -48,8 +48,12 @@ const Home = () => {
                                 <td>Fahmi Ibrahim</td>
                                 <td>Draft</td>
                                 <td>
-                                    <i className='fas fa-edit tw-mr-5 tw-text-blue-500'></i>
-                                    <i className='fas fa-trash tw-text-red-500'></i>
+                                    <button className='yzJL6fZq'>
+                                        <i className='fas fa-edit'></i>
+                                    </button>
+                                    <button className='Vsl3d6Y0'>
+                                        <i className='fas fa-trash'></i>
+                                    </button>
                                 </td>
                             </tr>
                             <tr>
@@ -59,8 +63,12 @@ const Home = () => {
                                 <td>Fahmi Ibrahim</td>
                                 <td>Draft</td>
                                 <td>
-                                    <i className='fas fa-edit tw-mr-5 tw-text-blue-500'></i>
-                                    <i className='fas fa-trash tw-text-red-500'></i>
+                                    <button className='yzJL6fZq'>
+                                        <i className='fas fa-edit'></i>
+                                    </button>
+                                    <button className='Vsl3d6Y0'>
+                                        <i className='fas fa-trash'></i>
+                                    </button>
                                 </td>
                             </tr>
                             <tr>
@@ -70,8 +78,12 @@ const Home = () => {
                                 <td>Fahmi Ibrahim</td>
                                 <td>Draft</td>
                                 <td>
-                                    <i className='fas fa-edit tw-mr-5 tw-text-blue-500'></i>
-                                    <i className='fas fa-trash tw-text-red-500'></i>
+                                    <button className='yzJL6fZq'>
+                                        <i className='fas fa-edit'></i>
+                                    </button>
+                                    <button className='Vsl3d6Y0'>
+                                        <i className='fas fa-trash'></i>
+                                    </button>
                                 </td>
                             </tr>
                         </tbody>

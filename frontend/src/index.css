@@ -28,6 +28,28 @@
         @apply tw-w-full tw-table-fixed tw-mb-10 tw-min-w-[800px];
     }
 
+    .GLzlAeKT { /* Button Primary */
+        @apply tw-font-semibold tw-bg-[#6777ef] tw-text-white tw-shadow-[0_2px_6px_#acb5f6] tw-py-[5px] tw-px-3 tw-rounded-[4px] tw-text-center tw-tracking-tight tw-inline-block;
+    }
+
+    .yzJL6fZq { /* Button Warning */
+        @apply tw-font-semibold tw-bg-[#ffa426] tw-text-white tw-shadow-[0_2px_6px_#ffc473] tw-py-[5px] tw-px-3 tw-rounded-[4px] tw-text-center tw-tracking-tight tw-inline-block;
+    }
+    
+    .Vsl3d6Y0 { /* Button Danger */
+        @apply tw-font-semibold tw-bg-[#fc544b] tw-text-white tw-shadow-[0_2px_6px_#fd9b96] tw-py-[5px] tw-px-3 tw-rounded-[4px] tw-text-center tw-tracking-tight tw-inline-block;
+    }
+
+    .atgP5wqF { /* Button Success */
+        @apply tw-font-semibold tw-bg-[#63ed7a] tw-text-white tw-shadow-[0_2px_6px_#a8f5b4] tw-py-[5px] tw-px-3 tw-rounded-[4px] tw-text-center tw-tracking-tight tw-inline-block;
+    }
+
+    .TKCBoz1C { /* Button Info */
+        @apply tw-font-semibold tw-bg-[#3abaf4] tw-text-white tw-shadow-[0_2px_6px_#82d3f8] tw-py-[5px] tw-px-3 tw-rounded-[4px] tw-text-center tw-tracking-tight tw-inline-block;
+    }
+
+
+
     table > thead > tr {
         @apply tw-bg-gray-100 tw-text-center;
     }
@@ -42,6 +64,10 @@
 
     table > tbody > tr > td {
         @apply tw-p-4 tw-border-b tw-border-gray-50;
+    }
+
+    td > button {
+        @apply tw-mr-1;
     }
 
     /*  */
