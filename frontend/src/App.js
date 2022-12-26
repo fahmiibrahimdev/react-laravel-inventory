@@ -14,7 +14,7 @@ function App() {
             <Router>
                 <div className='tw-min-h-screen'>
                     <Header />
-                        <div className="tw-container tw-mx-auto">
+                        <div className="CxO5jUhf">
                             <Routes>
                                 <Route path='/home' element={<Home />} />
                                 <Route path='/about' element={<About />} />

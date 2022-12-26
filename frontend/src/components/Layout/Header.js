@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div>
             <div className='tw-bg-white tw-w-full tw-py-2 tw-shadow-md tw-shadow-gray-200'>
-                <div className='tw-container tw-mx-auto'>
+                <div className='CxO5jUhf'>
                     <p className='tw-font-semibold tw-text-xl tw-mt-2'>Inventory</p>
                 </div>
             </div>
